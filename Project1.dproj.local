@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.210,=C:\Users\stud\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.02.18 10:57:15.359,=C:\Users\stud\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.02.18 11:01:12.531,S:\БИТ18-11\ООП\Проекты Высоцкий\Щитверг\Unit1.dfm=C:\Users\stud\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021.02.18 11:01:12.531,S:\БИТ18-11\ООП\Проекты Высоцкий\Щитверг\Unit1.pas=C:\Users\stud\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.02.18 11:01:14.639,S:\БИТ18-11\ООП\Проекты Высоцкий\Щитверг\Project1.dproj=C:\Users\stud\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021.02.18 11:12:33.073,C:\Users\stud\Desktop\Высоцкий\Unit1.pas=S:\БИТ18-11\ООП\Проекты Высоцкий\Щитверг\Unit1.pas</Transaction>
+    <Transaction>2021.02.18 11:12:33.073,C:\Users\stud\Desktop\Высоцкий\Unit1.dfm=S:\БИТ18-11\ООП\Проекты Высоцкий\Щитверг\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
